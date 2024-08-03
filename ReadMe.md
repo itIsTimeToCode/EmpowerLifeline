@@ -2,7 +2,6 @@ Lifeline is a website that offers a suite of mental health services right at you
 Also stay tuned because we're in the process of developing an emotional chat bot so that our users can talk to someone 24/7!
 There's nothing much to say if I'm being honest. Just click around and explore our website!
 We built this project with lots of time, commitment, and coffee. We all know developers work best at midnight ;)
-<br> As my chooms would say, it's pretty preem tier.
 ![image](https://github.com/user-attachments/assets/1a256e39-9e86-48bc-8a54-b13ec6792807)
 
 https://itistimetocode.github.io/EmpowerHacksLifeline/ 
